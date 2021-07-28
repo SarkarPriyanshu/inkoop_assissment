@@ -99,7 +99,7 @@ html {
     background-color: var(--Primary-secondary);
     bottom: -0.1rem; }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 415px) {
   .side-nav .close-btn {
     position: absolute;
     top: 2rem;
@@ -177,7 +177,7 @@ html {
       font-size: 1.5rem;
       font-weight: 800; }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 415px) {
   .content-title_headline {
     order: -2;
     flex: 0 0 100%;
@@ -243,7 +243,7 @@ html {
     flex-wrap: wrap;
     padding: 0 0 4% 0%; }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 415px) {
   .container {
     display: flex;
     flex-direction: column;
