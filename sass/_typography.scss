@@ -1,0 +1,22 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--Headline-font);
+  color: var(--Ternary-color);
+}
+
+p {
+  font-family: var(--Paragraph-font);
+  color: var(--Secondary-color);
+}
+
+a {
+  font-family: var(--Paragraph-font);
+  font-size: 1.6rem;
+  font-weight: 300;
+  text-decoration: none;
+  color: var(--link-color);
+}
